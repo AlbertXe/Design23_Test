@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding = 'utf-8' ?> 
+<Report>
+    <Header>
+        <DepId>一分公司</DepId>
+        <ExportDate>2010-05-18</ExportDate>
+    </Header>
+    <Body>
+        <Datas tableName = "销售记录表">
+            <Data>
+                <ProductId>产品001号</ProductId>
+                <Price>100.0</Price>
+                <Amount>80.0</Amount>
+            </Data>
+            <Data>
+                <ProductId>产品002号</ProductId>
+                <Price>99.0</Price>
+                <Amount>55.0</Amount>
+            </Data>
+        </Datas>
+    </Body>
+    <Footer>
+        <ExportUser>张三</ExportUser>
+    </Footer>
+</Report>
